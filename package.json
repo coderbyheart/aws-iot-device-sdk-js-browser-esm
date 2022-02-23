@@ -1,0 +1,14 @@
+{
+  "name": "aws-iot-device-sdk-js-browser-esm",
+  "version": "0.0.0-development",
+  "description": "Demonstrates usage of aws-iot-device-sdk-js-v2 in a browser project using ESM",
+  "type": "module",
+  "dependencies": {
+    "aws-crt": "1.11.0",
+    "aws-iot-device-sdk-v2": "1.7.0",
+    "vite": "2.8.4"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
