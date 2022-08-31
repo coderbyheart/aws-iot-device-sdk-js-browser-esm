@@ -1,3 +1,5 @@
+> :information_source: This code is a demonstration for the bug https://github.com/aws/aws-iot-device-sdk-js-v2/issues/223. It is intended to not work.
+
 # Demonstrates usage of aws-iot-device-sdk-js-v2 in a browser project using ESM
 
     npm ci
